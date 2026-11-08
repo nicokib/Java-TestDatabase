@@ -1,0 +1,10 @@
+*.class
+# Logs
+*.log
+# IDE
+.idea/
+*.iml
+.vscode/
+# Build
+target/
+build/
